@@ -1,11 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T08:50:24.477Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="Q2vbl9lwhDkd9t8lsje_" version="18.0.3" type="github">
-  <diagram id="KZ60ZsMe3nPh-UWEbMVa" name="第 1 页">
+<mxfile host="app.diagrams.net" modified="2022-05-14T11:02:30.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="o4LKmZrDzaAuGYgrh3Oy" version="18.0.3" type="github">
+  <diagram id="KZ60ZsMe3nPh-UWEbMVa" name="Netty">
     <mxGraphModel dx="1426" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SnHcZ-KXNDNAB66GBcE1-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="750" width="180" height="180" as="geometry" />
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Netty Transport&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=0;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-5" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Netty &lt;br&gt;Codec&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-6" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Business&lt;br&gt;Application&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#ae4132;shadow=0;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="350" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;sketch=1;fontSize=30;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="439.5" as="sourcePoint" />
+            <mxPoint x="460" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="439.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;sketch=1;fontSize=30;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="439.5" as="sourcePoint" />
+            <mxPoint x="840" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="440" />
+              <mxPoint x="770" y="439.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-10" value="处理通信协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="90" y="540" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-11" value="通信协议对象转业务对象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="420" y="535" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-12" value="业务对象逻辑处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="800" y="535" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-13" value="Selector" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#d5e8d4;fillStyle=dots;sketch=1;rounded=1;fontSize=24;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="860" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-14" value="Channel" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#d5e8d4;fillStyle=dots;sketch=1;rounded=1;fontSize=24;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1010" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;sketch=1;fontSize=30;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="990" as="sourcePoint" />
+            <mxPoint x="330" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-19" value="注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=24;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="210" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;sketch=1;fontSize=30;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1120" as="sourcePoint" />
+            <mxPoint x="350" y="1190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-21" value="绑定" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=24;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-22" value="网卡端口" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;rounded=1;sketch=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1170" width="76.73" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-25" value="Netty的用途" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-26" value="" style="line;strokeWidth=1;html=1;rounded=1;sketch=1;fontSize=24;dashed=1;strokeColor=#404040;" vertex="1" parent="1">
+          <mxGeometry x="40" y="630" width="1270" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-27" value="NioEventLoop" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#d5e8d4;fillStyle=dots;sketch=1;rounded=1;fontSize=24;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="660" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SnHcZ-KXNDNAB66GBcE1-28" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=1;sketch=1;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="424.5" y="850" as="sourcePoint" />
+            <mxPoint x="425" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="424.5" y="800" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
