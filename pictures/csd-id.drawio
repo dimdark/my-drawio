@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T03:47:09.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="y8pdZDbrncZySQPoBdi2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T03:51:49.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="cQ1lVOXFkZ81-yXFBG-N" type="github">
   <diagram id="DBy1TSTR0VtcKm5UeJao" name="第 1 页">
     <mxGraphModel dx="1258" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,11 +28,11 @@
         <mxCell id="L6iPz5fZq7F0DD5xrusV-22" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;padding_length&lt;br style=&quot;font-size: 25px;&quot;&gt;填充位数&lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="605" y="340" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="L6iPz5fZq7F0DD5xrusV-23" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;old/new新旧ID标识位&lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="840" y="360" width="170" height="70" as="geometry" />
+        <mxCell id="L6iPz5fZq7F0DD5xrusV-23" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;old_new_mark_id&lt;br&gt;新旧ID标识位&lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="838.14" y="350" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="L6iPz5fZq7F0DD5xrusV-24" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;biz_id&lt;br style=&quot;font-size: 25px;&quot;&gt;业务身份标识&lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="350" width="170" height="70" as="geometry" />
+          <mxGeometry x="1068.12" y="335" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="L6iPz5fZq7F0DD5xrusV-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;shadow=0;glass=0;sketch=0;fillWeight=10;hachureGap=12;jiggle=2;strokeColor=#8F8F8F;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=25;fillColor=#3333FF;rotation=-90;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="318.5" y="260" width="50" height="460" as="geometry" />
