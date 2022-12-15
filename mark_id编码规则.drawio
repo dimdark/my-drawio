@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T14:51:25.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="DAnG5-w_UZubk0-T55ji" type="github"><diagram id="hT44jl1Rou9OB4WVGBJV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-15T15:15:44.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="klbtqZivs0qftqB5iNFT" type="github">
+  <diagram id="3UV2N2_CsK47-BD-zQZb" name="第 1 页">
+    <mxGraphModel dx="1426" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_gT4ns5PDXYJ1jsOTfaG-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#6A7078;sketch=1;jiggle=2;fillWeight=4;hachureGap=12;hachureAngle=45;curveFitting=0.95;strokeWidth=2;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="740" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_gT4ns5PDXYJ1jsOTfaG-2" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;sketch=1;fillWeight=4;hachureGap=12;hachureAngle=45;jiggle=2;curveFitting=0.95;strokeColor=#6A7078;fillColor=#CCE5FF;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_gT4ns5PDXYJ1jsOTfaG-4" value="&lt;p style=&quot;line-height: 140%; font-size: 18px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#ff6666&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;0&lt;/b&gt;&lt;/font&gt;: 标识新ID包含旧ID&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 20px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;: 标识新ID不包含旧ID&lt;/span&gt;&lt;/div&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fillWeight=4;hachureGap=12;hachureAngle=45;jiggle=2;curveFitting=0.95;strokeWidth=2;spacing=2;fontFamily=Helvetica;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="570" y="225" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_gT4ns5PDXYJ1jsOTfaG-5" value="&lt;p style=&quot;line-height: 150%; font-size: 18px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left; line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;0&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;: 标识seed小于一百亿&lt;/span&gt;&lt;/div&gt;&lt;b&gt;&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 20px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;: 标识seed不小于一百亿&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fillWeight=4;hachureGap=12;hachureAngle=45;jiggle=2;curveFitting=0.95;strokeWidth=2;spacing=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="295" y="215" width="225" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_gT4ns5PDXYJ1jsOTfaG-6" value="保留位，待拓展&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;p style=&quot;line-height: 150%; font-size: 18px;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left; font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;sketch=1;fillWeight=4;hachureGap=12;hachureAngle=45;jiggle=2;curveFitting=0.95;strokeWidth=2;spacing=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_gT4ns5PDXYJ1jsOTfaG-7" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;sketch=1;fillWeight=4;hachureGap=12;hachureAngle=45;jiggle=2;curveFitting=0.95;strokeColor=#6A7078;fillColor=#CCE5FF;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_gT4ns5PDXYJ1jsOTfaG-8" value="mark_id组成规则(二进制格式)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fillWeight=4;hachureGap=12;hachureAngle=45;jiggle=2;curveFitting=0.95;strokeWidth=2;fontFamily=Helvetica;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="390" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
