@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T10:10:33.395Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="s08WiOaH0NRPkajlXKx4" type="github"><diagram id="g7DAm_ox4U7E8qZWhpnt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-10T11:36:59.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="Ohu1NU-vG49HvjUngjdT" type="github">
+  <diagram id="OFfk3m-CUPM5vA5_71vh" name="第 1 页">
+    <mxGraphModel dx="1026" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-3" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;资源粒度下的计数&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=12;jiggle=1;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;glass=0;shadow=0;fillWeight=2;perimeterSpacing=0;hachureAngle=-41;simplification=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-4" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;&lt;font&gt;being_liked&lt;br&gt;资源对应的点赞数&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=12;jiggle=1;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;glass=0;shadow=0;fillWeight=2;hachureAngle=-41;simplification=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="410" y="30" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-5" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;&lt;font&gt;being_commented&lt;br&gt;资源对应的评论数&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=12;jiggle=1;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;glass=0;shadow=0;fillWeight=2;fontColor=#333333;hachureAngle=-41;" vertex="1" parent="1">
+          <mxGeometry x="410" y="170" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-6" value="&lt;font&gt;view&lt;br&gt;资源对应的浏览数&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=12;jiggle=1;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;glass=0;shadow=0;fillWeight=2;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="410" y="320" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-7" value="&lt;font&gt;share&lt;br&gt;资源对应的分享数&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=12;jiggle=1;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;glass=0;shadow=0;fillWeight=2;fontColor=#333333;hachureAngle=-41;" vertex="1" parent="1">
+          <mxGeometry x="410" y="490" width="310" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
