@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T11:48:55.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="UClp1dNI9R-mQZvv3n_N" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T15:48:22.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="Ta8_yN49YdBZN1EAZ1K1" type="github">
   <diagram id="OFfk3m-CUPM5vA5_71vh" name="第 1 页">
-    <mxGraphModel dx="1026" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="oGa8BiXP_3EPm-OH-dbe-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="337" y="680" width="50" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="oGa8BiXP_3EPm-OH-dbe-14" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#9933ff&quot;&gt;用户粒度下&lt;/font&gt;&lt;font color=&quot;#333333&quot;&gt;的计数&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=12;jiggle=1;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;glass=0;shadow=0;fillWeight=2;perimeterSpacing=0;hachureAngle=-41;simplification=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-14" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff33ff&quot;&gt;用户粒度下&lt;/font&gt;&lt;font color=&quot;#333333&quot;&gt;的计数&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=12;jiggle=1;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;glass=0;shadow=0;fillWeight=2;perimeterSpacing=0;hachureAngle=-41;simplification=0;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="100" y="890" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oGa8BiXP_3EPm-OH-dbe-15" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;&lt;font&gt;being_liked&lt;br&gt;作者(publish_id)被点赞的数目&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=12;jiggle=1;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;glass=0;shadow=0;fillWeight=2;hachureAngle=-41;simplification=0;fontColor=#333333;" vertex="1" parent="1">
@@ -45,6 +45,57 @@
         </mxCell>
         <mxCell id="oGa8BiXP_3EPm-OH-dbe-16" value="&lt;font&gt;view&lt;br&gt;用户的浏览数&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=12;jiggle=1;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;glass=0;shadow=0;fillWeight=2;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="420" y="1080" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-17" value="评论点赞流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1360" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-27" value="" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#FF33FF;exitX=1.011;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.01;entryY=0.173;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#666666;" edge="1" parent="1" source="oGa8BiXP_3EPm-OH-dbe-18" target="oGa8BiXP_3EPm-OH-dbe-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-18" value="&lt;b&gt;IOS/Android&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#666666;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fontColor=#333333;fillColor=#95D2F5;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1450" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#666666;" edge="1" parent="1" source="oGa8BiXP_3EPm-OH-dbe-19" target="oGa8BiXP_3EPm-OH-dbe-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-19" value="&lt;font color=&quot;#333333&quot;&gt;H5&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#666666;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fontColor=#666666;fillColor=#95D2F5;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="1630" width="196.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fontColor=#333333;entryX=-0.006;entryY=0.621;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#666666;" edge="1" parent="1" source="oGa8BiXP_3EPm-OH-dbe-20" target="oGa8BiXP_3EPm-OH-dbe-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="442" y="1546.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="442" y="1545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-20" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;H5 Gateway&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#666666;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#666666;fillColor=#95D2F5;" vertex="1" parent="1">
+          <mxGeometry x="337" y="1626.25" width="210" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-39" value="" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#FF33FF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGa8BiXP_3EPm-OH-dbe-22" target="oGa8BiXP_3EPm-OH-dbe-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="995" y="1525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-22" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;nio-app-api-comments&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#666666;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#666666;fillColor=#95D2F5;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1470" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-33" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;uad-ghost&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#666666;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#666666;fillColor=#95D2F5;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1470" width="210" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-46" value="" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fontColor=#333333;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="oGa8BiXP_3EPm-OH-dbe-44" target="oGa8BiXP_3EPm-OH-dbe-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="955" y="1619" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="955" y="1670" />
+              <mxPoint x="1053" y="1670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGa8BiXP_3EPm-OH-dbe-44" value="&lt;font color=&quot;#333333&quot;&gt;Kafka&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#666666;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fontColor=#666666;fillColor=#95D2F5;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1700" width="210" height="131" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
