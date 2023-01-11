@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T02:41:22.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ZKZFobYf0q6Ahjaog3NT" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T02:41:50.943Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aXGtT9sxWBhScHprFXlY" version="20.8.3" type="github">
   <diagram id="OFfk3m-CUPM5vA5_71vh" name="第 1 页">
-    <mxGraphModel dx="1853" dy="1902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2357" dy="2204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -334,8 +334,8 @@
         <mxCell id="oGa8BiXP_3EPm-OH-dbe-115" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;内容打赏转发至打赏服务&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#FF66FF;" parent="1" vertex="1">
           <mxGeometry x="631.88" y="3170" width="228.12" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1jkVv3usRXJV1OlvkYl_-1" value="内容侧互动业务（计数、收藏、打赏）新链路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=45;fontColor=#9933FF;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-80" width="920" height="70" as="geometry" />
+        <mxCell id="1jkVv3usRXJV1OlvkYl_-1" value="内容侧互动业务（计数、收藏、打赏）旧链路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=45;fontColor=#9933FF;" vertex="1" parent="1">
+          <mxGeometry x="332" y="-70" width="920" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
