@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T06:01:53.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.20" etag="gZo94p6K7Kj-6k9sUwWS" type="github"><diagram name="第 1 页" id="h4G-ioA5iamA-dKhA0Oz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-16T06:19:06.629Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LFLjGQmq58mRPFe8Fcd6" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="h4G-ioA5iamA-dKhA0Oz">
+    <mxGraphModel dx="1247" dy="35" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="99GIIKiHrKWM601DftDt-6" value="&lt;p style=&quot;line-height: 140%; font-size: 30px;&quot;&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;csd-content&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#666666;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=30;fontColor=#666666;fillColor=#95D2F5;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1570" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="99GIIKiHrKWM601DftDt-7" value="&lt;p style=&quot;line-height: 140%; font-size: 30px;&quot;&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;uad-reward&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#666666;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=30;fontColor=#666666;fillColor=#95D2F5;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1570" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="99GIIKiHrKWM601DftDt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=30;fontColor=#FF66FF;strokeColor=#d79b00;fillColor=#ffe6cc;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2084.5" y="1570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2084.5" y="1470" />
+              <mxPoint x="2084.5" y="1470" />
+            </Array>
+            <mxPoint x="2084.5" y="1260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99GIIKiHrKWM601DftDt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=30;fontColor=#FF66FF;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="1570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1340.5" y="1410" />
+              <mxPoint x="1340.5" y="1410" />
+            </Array>
+            <mxPoint x="1340" y="1260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99GIIKiHrKWM601DftDt-11" value="&lt;font color=&quot;#ff9933&quot;&gt;user reward request&lt;br&gt;用户打赏请求(旧接口)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="1360" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="99GIIKiHrKWM601DftDt-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=30;fontColor=#FF66FF;strokeColor=#d79b00;exitX=-0.017;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#ffe6cc;" edge="1" parent="1" source="99GIIKiHrKWM601DftDt-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="1610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1935" y="1610" />
+            </Array>
+            <mxPoint x="1930" y="1610" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99GIIKiHrKWM601DftDt-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=30;fontColor=#FF66FF;strokeColor=#82b366;endArrow=classic;endFill=1;fillColor=#d5e8d4;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1940" y="1680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1730.5" y="1680" />
+              <mxPoint x="1730.5" y="1680" />
+            </Array>
+            <mxPoint x="1490" y="1680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99GIIKiHrKWM601DftDt-14" value="sync" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1560" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="99GIIKiHrKWM601DftDt-15" value="&lt;font color=&quot;#00cc00&quot;&gt;user reward request&lt;br&gt;用户打赏请求(新接口)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1360" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="99GIIKiHrKWM601DftDt-16" value="&lt;font color=&quot;#00cc00&quot;&gt;sync&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1660" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
