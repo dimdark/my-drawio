@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T05:22:40.621Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.6" etag="dYDGsPGvnXSB8j91pxVl" type="github"><diagram name="第 1 页" id="jmn-RaRoDM7wlh1HfpOq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-14T11:46:21.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kY97Gg2IndGDIeLxjbqS" version="21.0.6" type="github">
+  <diagram name="第 1 页" id="jmn-RaRoDM7wlh1HfpOq">
+    <mxGraphModel dx="2100" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FrtvoCkaLHEFMuSDailq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryX=0.521;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FrtvoCkaLHEFMuSDailq-1" target="FrtvoCkaLHEFMuSDailq-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650" y="1655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FrtvoCkaLHEFMuSDailq-1" value="&lt;p style=&quot;line-height: 140%; font-size: 30px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;mall_id: &lt;/font&gt;&lt;font color=&quot;#3333ff&quot;&gt;50015808&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#666666;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=30;fontColor=#666666;fillColor=#95D2F5;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1480" width="480" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FrtvoCkaLHEFMuSDailq-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="FrtvoCkaLHEFMuSDailq-2" target="FrtvoCkaLHEFMuSDailq-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2165" y="2090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FrtvoCkaLHEFMuSDailq-2" value="&lt;p style=&quot;line-height: 50%; font-size: 30px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;comment_id: &lt;/font&gt;&lt;font color=&quot;#ff8000&quot;&gt;17778273&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%; font-size: 30px;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;b&gt;resource_type: mall_item&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%; font-size: 30px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;resource_id: &lt;/font&gt;&lt;font color=&quot;#3333ff&quot;&gt;50015808&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#666666;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=30;fontColor=#666666;fillColor=#95D2F5;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1810" width="570" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FrtvoCkaLHEFMuSDailq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FrtvoCkaLHEFMuSDailq-3" target="FrtvoCkaLHEFMuSDailq-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2530" y="2550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FrtvoCkaLHEFMuSDailq-3" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&amp;nbsp;comment_id: &lt;/font&gt;&lt;font color=&quot;#ff0080&quot;&gt;17914190&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(51, 51, 51); background-color: initial;&quot;&gt;resource_type: comment&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;resource_id: &lt;/font&gt;&lt;font color=&quot;#ff8000&quot;&gt;17778273&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;source_comment_id: &lt;/font&gt;&lt;font color=&quot;#ff8000&quot;&gt;17778273&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#666666;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=30;fontColor=#666666;fillColor=#95D2F5;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="2200" width="640" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FrtvoCkaLHEFMuSDailq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="FrtvoCkaLHEFMuSDailq-4" target="FrtvoCkaLHEFMuSDailq-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2865" y="2965" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FrtvoCkaLHEFMuSDailq-4" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;b&gt;comment_id: 20501121&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; resource_type: comment&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; resource_id: &lt;/font&gt;&lt;font color=&quot;#ff8000&quot;&gt;17778273&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;source_comment_id: &lt;/font&gt;&lt;font color=&quot;#ff8000&quot;&gt;17778273&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&amp;nbsp; source_reply_id: &lt;/font&gt;&lt;font color=&quot;#ff0080&quot;&gt;17914190&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#666666;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=30;fontColor=#666666;fillColor=#95D2F5;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="2590" width="650" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FrtvoCkaLHEFMuSDailq-11" value="发表商品晒图评论" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=30;fontColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="1650" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FrtvoCkaLHEFMuSDailq-12" value="针对商品晒图评论&lt;br&gt;发布一级评论" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=30;fontColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="2070" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FrtvoCkaLHEFMuSDailq-14" value="针对商品晒图评论&lt;br&gt;发布二级评论" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=30;fontColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="2470" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FrtvoCkaLHEFMuSDailq-15" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;b&gt;comment_id: 20501121&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; resource_type: comment&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; resource_id: &lt;/font&gt;&lt;font color=&quot;#ff8000&quot;&gt;17778273&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;source_comment_id: &lt;/font&gt;&lt;font color=&quot;#ff8000&quot;&gt;17778273&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&amp;nbsp; source_reply_id: &lt;/font&gt;&lt;font color=&quot;#ff0080&quot;&gt;17914190&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fillWeight=2;hachureGap=12;hachureAngle=-41;jiggle=1;curveFitting=1;simplification=0;strokeColor=#666666;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=30;fontColor=#666666;fillColor=#95D2F5;" vertex="1" parent="1">
+          <mxGeometry x="2870" y="3000" width="650" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FrtvoCkaLHEFMuSDailq-18" value="针对商品晒图评论&lt;br&gt;发布三级评论" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=30;fontColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="2890" width="280" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
